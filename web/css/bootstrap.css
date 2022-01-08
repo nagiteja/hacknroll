@@ -4587,6 +4587,7 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+  text-decoration:none ;
 }
 
 .card-subtitle {
@@ -10096,6 +10097,29 @@ body{margin-top:20px;}
     min-width: 3rem;
     border-radius: 6.25rem;
     opacity: .5
+}
+.change:hover h5 {
+  font-size:1.2rem;
+  color: var(--purple);
+  text-decoration: none;
+}
+.history{
+  padding: 1.2rem;
+}
+.img1{
+  padding-top: 10rem;
+}
+.galleryheading{
+  padding-bottom: 3rem;;
+}
+.vid{
+  padding-top: 20rem;
+}
+.imgtwo{
+  padding-bottom: 10rem;
+}
+.cardstwo{
+  padding-top: -5rem;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
